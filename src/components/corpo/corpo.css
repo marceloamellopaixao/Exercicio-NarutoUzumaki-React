@@ -1,0 +1,21 @@
+.narutoSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.narutoSection h2 {
+    text-shadow: #000000 2px 2px 2px;
+    margin-bottom: 30px;
+}
+
+.narutoSection img{
+    width: 300px;
+    border-radius: 50%;
+}
+
+.narutoSection p{
+    margin-top: 15px;
+}
